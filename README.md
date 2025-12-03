@@ -39,9 +39,6 @@ Uses `useState()` to manage tasks and input values.
 ---
 
 
-
----
-
 ## 📸 Screenshot
 
 <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/730932bf-c23b-4da8-a21a-f12835bddd90" />
