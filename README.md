@@ -1,4 +1,57 @@
-# React + Vite
+🚀 Features
+✔ Add Tasks
+
+Users can enter tasks into the input field and add them instantly.
+
+✔ Delete Tasks
+
+Each task includes a delete button to remove it from the list.
+
+✔ Clean and Modern UI
+
+Beautiful layout with gradients, card-style tasks, smooth spacing, and minimalistic design.
+
+✔ Super-fast Loading (Vite)
+
+Powered by Vite for:
+
+Lightning-fast development server
+
+Hot Module Replacement (HMR)
+
+Optimized React builds
+
+✔ React Hooks
+
+Uses useState() for managing tasks and input values.
+
+🛠️ Tech Stack
+Technology	Purpose
+React.js	Component UI + Logic
+Vite	Fast frontend build tool
+JavaScript (ES6+)	App logic
+CSS3	Styling + UI design
+📂 Folder Structure
+to-do-list-main/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── App.jsx          # Main component
+│   ├── App.css          # Styles for the App
+│   ├── main.jsx         # React root file
+│   └── index.css
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
+
+📸 Screenshot
+
+(Add your screenshot here)
+
+Example:
+
+![To-Do App Screenshot](./screenshot.png)# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
