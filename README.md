@@ -38,29 +38,12 @@ Uses `useState()` to manage tasks and input values.
 
 ---
 
-## 📂 Folder Structure
-
-to-do-list-main/
-│── public/
-│── src/
-│ ├── assets/
-│ ├── App.jsx # Main component
-│ ├── App.css # Styles for the App
-│ ├── main.jsx # React root file
-│ └── index.css
-│── index.html
-│── package.json
-│── vite.config.js
-│── README.md
 
 
 ---
 
 ## 📸 Screenshot
 
-(Add your screenshot here)
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/730932bf-c23b-4da8-a21a-f12835bddd90" />
 
-Example:
-
-```md
-![To-Do App Screenshot](./screenshot.png)
+---
